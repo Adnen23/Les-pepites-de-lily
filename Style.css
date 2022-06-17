@@ -1,0 +1,20 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#logo{
+    
+    font-family: 'Parisienne', cursive;
+    color: #44232C;
+    
+}
+
+#pub{
+    height: 100px;
+}
+
+.bg1{
+    background-image: url("Sans titre.png");
+    border-radius: 30px;
+}
+
