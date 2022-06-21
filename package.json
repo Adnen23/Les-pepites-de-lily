@@ -2,10 +2,14 @@
   "name": "les-pepites-de-lily",
   "version": "1.0.0",
   "description": "",
-  "main": "Script_Base.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Adnen23/Les-pepites-de-lily.git"
